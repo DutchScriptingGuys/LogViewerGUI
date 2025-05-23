@@ -5,4 +5,4 @@ This PowerShell script creates a Windows Forms-based graphical user interface (G
 - View a list of matching log files, sorted by last write time.
 - Open a selected log file with its associated application.
 
-Created for LINK_TO_BLOG
+Created for [Creating GUI Applications: Practical Example | Log Viewer](https://dutchscriptingguys.com/creating-gui-applications-practical-example-log-viewer/)
